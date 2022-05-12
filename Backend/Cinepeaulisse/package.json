@@ -1,0 +1,16 @@
+{
+  "name": "cinepeaulisse",
+  "version": "1.0.0",
+  "description": "ECF backend CDA2111",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "express-validator": "^6.14.0",
+    "sqlite3": "^5.0.8"
+  }
+}
